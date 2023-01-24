@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navin</h1>
 <h3 align="center">Web developer by Heart ❤</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkrv&label=Profile%20views&color=0e75b6&style=flat" alt="navinkrv" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="navinkrv" /> </p>
 
-<p align="left"> <a href="https://twitter.com/navinkrv" target="blank"><img src="https://img.shields.io/twitter/follow/navinkrv?logo=twitter&style=for-the-badge" alt="navinkrv" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/navinkrv](https://github.com/navinkrv)
 
