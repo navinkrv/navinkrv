@@ -1,7 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/97692286/214384370-79720d23-6eca-4c7a-b06b-ff6736eebe52.jpg)
+
 
 <h1 align="center">Hello 👋, I'm Navin 👩‍💻</h1>
 <h3 align="center">Hey it's me Navin Kumar.I have a keen interest in Web develoopment and have a huge fascination with workings of technology.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkrv&label=Profile%20views&color=0e75b6&style=flat" alt="navinkrv" /> </p>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
