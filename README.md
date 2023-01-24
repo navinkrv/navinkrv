@@ -6,9 +6,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Coding Skills.**
-- 🌱 I’m currently learning **Competitive programming and DSA.**
-- 👯 I’m looking to collaborate on **Java and Web Projects.**
+- 🔭 I’m currently working on **React Development.**
+- 🌱 I’m currently learning **Full Stack Web development.**
+- 👯 I’m looking to collaborate on **Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/navinkrv?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="navinkrv" height="30" width="40" /></a>
 - 💬 Ask me about **Java, HTML and CSS.**
 
