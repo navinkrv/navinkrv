@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Full Stack Web development.**
 - 👯 I’m looking to collaborate on **Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/navinkrv?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="navinkrv" height="30" width="40" /></a>
-- 💬 Ask me about **Java, HTML and CSS.**
+- 💬 Ask me about **HTML, CSS,JS, React.js**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navinkrv&theme=radical&hide_border=true"/>
