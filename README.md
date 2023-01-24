@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello 👋, I'm Navinkrv🎯️🚀️</h1>
-<h3 align="center">Hey it's me Abhinadan Raj.I have a keen interest in DSA, Java and Web Development and have a huge fascination with the inner workings of technology.</h3>
+<h1 align="center">Hello 👋, I'm Navin 👩‍💻</h1>
+<h3 align="center">Hey it's me Navin Kumar.I have a keen interest in Web develoopment and have a huge fascination with workings of technology.</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
